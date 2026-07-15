@@ -51,5 +51,5 @@ To manufacture this PCB:
 
 The hardware design methodology and architecture are based on the instructional material provided by Phil's Lab ("STM32 PCB Design - Complete Walkthrough").
 
-- [Reference Video](https://www.youtube.com/watch?v=QIBvbJtYjWuHiTG0uCoK)
-- [Altium Designer Documentation](https://www.altium.com/documentation)
+- [Reference Video](https://www.youtube.com/watch?v=PMEpQZ90f34&t=5077s)
+- [Altium Designer Documentation](https://www.altium.com/documentation/)
